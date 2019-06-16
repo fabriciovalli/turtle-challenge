@@ -1,5 +1,5 @@
 # turtle-challenge
-Code assessment for LetsGetChecked.ie
+Code assessment for LetsGetChecked.com
 
 ## Information
 

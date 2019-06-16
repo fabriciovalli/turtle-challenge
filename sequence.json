@@ -1,0 +1,30 @@
+{
+  "moves": [
+    [
+      "Move",
+      "Rotate",
+      "Move",
+      "Move",
+      "Move",
+      "Move",
+      "Rotate",
+      "Move",
+      "Move"
+    ],
+    [
+      "Move",
+      "Move",
+      "Move",
+      "Move",
+      "Move",
+      "Move"
+    ],
+    [
+      "Rotate",
+      "Move",
+      "Move",
+      "Rotate",
+      "Move"
+    ]
+  ]
+}
